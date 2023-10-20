@@ -15,3 +15,4 @@ make
 sudo make install
 sudo make load
 ```# ch340
+# WiFiSerialPortTransparent
